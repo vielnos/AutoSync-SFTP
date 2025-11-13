@@ -1,0 +1,4 @@
+config.json
+*.xlsx
+sync_script.txt
+__pycache__/

@@ -1,0 +1,19 @@
+{
+  "sftp": {
+    "host": "your-sftp-host",
+    "port": 22,
+    "username": "your-username",
+    "password": "your-password",
+    "remote_directory": "/remote/folder/path"
+  },
+  "local": {
+    "local_directory": "C:/SyncFolder",
+    "winscp_path": "C:/Program Files (x86)/WinSCP/WinSCP.com",
+    "report_name": "sync_report.xlsx"
+  },
+  "email": {
+    "sender": "sender@gmail.com",
+    "receiver": "receiver@example.com",
+    "password": "your-gmail-app-password"
+  }
+}
