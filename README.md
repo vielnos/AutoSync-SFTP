@@ -1,3 +1,7 @@
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/github/license/vielnos/AutoSync-SFTP)
+![Last Commit](https://img.shields.io/github/last-commit/vielnos/AutoSync-SFTP)
 🔥 AutoSync – SFTP Auto Sync \& File Change Tracker
 
 
